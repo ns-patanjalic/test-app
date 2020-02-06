@@ -3,7 +3,7 @@
 set -euo pipefail
 
 #Initializing two variables 
-a=20 
+a=30 
 b=20 
   
 #Check whether they are equal 
